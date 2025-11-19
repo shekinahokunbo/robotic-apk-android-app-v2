@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "438786373273",
+    "project_id": "robodoc-d8471",
+    "storage_bucket": "robodoc-d8471.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438786373273:android:80f62b8d091ec2754c6a08",
+        "android_client_info": {
+          "package_name": "com.mycompany.robodoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438786373273-bsdcgnbi7bn52m9f33a5hen7hvdhrhpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf51Wp3QfXxfiFDexMNFnIhvZQ7fduciM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438786373273-bsdcgnbi7bn52m9f33a5hen7hvdhrhpt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438786373273-012hf0jthaht19jgq1kuejfhete8mdh0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.robodoc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
